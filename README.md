@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on an automated DHL shipment tracker.
+I'm currently working on an automated DHL shipment proof of delivery fetcher.
 
 
 ## 🌐 Socials:
