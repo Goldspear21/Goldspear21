@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on an automated DHL shipment proof of delivery fetcher.
+I'm a second-year university student at **RIT Dubai**, with a major in computing. I'm currently developing my skills in C++, and I'm working on integrating an API with Java to seamlessly download DHL proofs of delivery PDF files.
 
 
 ## 🌐 Socials:
@@ -15,4 +15,3 @@ I'm currently working on an automated DHL shipment proof of delivery fetcher.
 ---
 [![](https://visitcount.itsvg.in/api?id=Goldspear21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
