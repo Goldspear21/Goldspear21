@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a second-year university student at **RIT Dubai**, with a major in computing. I'm currently developing my skills in C++, and I'm working on integrating an API with Java to seamlessly download DHL proofs of delivery PDF files.
+I'm a second-year university student at **RIT Dubai**, with a major in computing. I'm currently developing my skills in C++, I have completed various projects using mainly java, I have worked at as a selenium tester, I have created automations using selenium, and I am currently working on two projects, one being a database, another project using spring.
 
 
 ## 🌐 Socials:
