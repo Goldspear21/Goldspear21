@@ -10,9 +10,7 @@ I'm a second-year university student at **RIT Dubai**, with a major in computing
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Goldspear21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Goldspear21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Goldspear21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Goldspear's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Goldspear21)]
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Goldspear21&icon=0&color=0)](https://visitcount.itsvg.in)
